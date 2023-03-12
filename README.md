@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Docker 
 - ⚡ "This is the way"
 <br />
-- :cloud: Have a nice day
+Have a nice day
