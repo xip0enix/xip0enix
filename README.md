@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on improving my Front-End skills
-- 🌱 I’m currently learning Docker 
+- 🌱 I’m learning Docker 
 - :heart: Open source
 - ⚡ "This is the way"
 
